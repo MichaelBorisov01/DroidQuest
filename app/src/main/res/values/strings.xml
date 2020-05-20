@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DroidQuest</string>
+
+    <string name="true_button">Yes</string>
+    <string name="false_button">No</string>
+    <string name="correct_toast">Right!</string>
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="question_android">Android OS is based on Linux kernel</string>
+    <string name="question_linear">Разметка LinearLayout позиционирует свои дочерние элементы в строки и столбцы</string>
+    <string name="question_service">Компонент Android-приложения Service предоставляют доступ к данным</string>
+    <string name="question_res">Ресурсы приложения содержатся в отдельном файле XML</string>
+    <string name="question_manifest">AndroidManifest.xml предоставляет системе основную информацию о программе</string>
+
+    <string name="question_onSaveInstanceState">Реализация по умолчанию onSaveInstanceState(…) приказывает всем представлениям активности сохранить своё состояние в данных объекта Bundle </string>
+    <string name="question_theBest">Is Android better than Apple?</string>
+    <string name="question_home">Нажатие кнопки Home сообщает Android: "Я завершил работу с активностью, и она мне больше не нужна"</string>
+    <string name="question_yon">Ну скажи: Да или Нет. Подумай хорошенько!</string>
+    <string name="question_ussr">Что ты можешь рассказать о распаде СССР?</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show answer</string>
+    <string name="deceit_button">To deceit!</string>
+    <string name="jugment_toast">Ohh my.. r u cheater? </string>
+</resources>
